@@ -1,2 +1,2 @@
-# Alaitzen-webgunea
-kiaxo eta ongi etorri
+# ComendandOT
+kiaxo eta ongi etorri, OT ikusi eta disfrutatu
